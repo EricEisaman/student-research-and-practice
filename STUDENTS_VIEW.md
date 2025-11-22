@@ -1,6 +1,12 @@
-Look, question, describe, step, test, reflect.
+# Look, question, describe, step, test, reflect.
 
+
+describe: ontology and process (Mermaid diagrams.)
 
 step: unassisted and assisted, with and without AI and teacher.
+
+
 test: write benchmarks
+
+
 reflect: organized quantitative and qualitative analysis
